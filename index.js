@@ -54,4 +54,6 @@ buttonSave.addEventListener('click', (event) => {
     container.classList.remove('showModal');
 
     console.log(dados); // Exibe os dados no console
+    
 });
+
